@@ -1,0 +1,56 @@
+.App{
+  background-color: rgb(238, 236, 236);
+  height: 1200px;
+  /* color: black; */
+}
+.logo{
+  width:40px;
+  height:40px;
+  margin-bottom: 15px;
+
+}
+.logo img{
+  width:40px;
+  height:40px;
+  border-radius:8px;
+}
+.iconbox{
+  width: 70px;
+  margin: 15px ;
+}
+.icontext{
+  height: 10spx;
+  color: black;
+  margin-bottom: 15px;
+  text-align: center;
+}
+.icon{
+  width: 40px;
+  height: 15px;
+  display: flex;
+  align-items: center;
+}
+.avatar{
+  height: 200px;
+  position: absolute;
+  top: 80px;
+  left : 50px;
+
+}
+.cardicon{
+  display: flex;
+  align-items: center;
+}
+.cardicon span {
+  margin: 20px;
+}
+.button{
+  margin: 10px;
+}
+
+.profilepic{
+  padding-inline: 20px;
+  /* display: flex;s */
+  /* justify-content: center; */
+  /* align-items: center; */
+}
